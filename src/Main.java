@@ -32,8 +32,8 @@ public class Main {
         // Задача 3
         System.out.println("Задача 3");
 
-        int year = 2024;
-        if (year > 1568 && (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)) {
+        int year = 2028;
+        if (year > 1584 && (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)) {
             System.out.println(year + " являеться високосным");
         } else {
             System.out.println(year + " не являеться високосным");
@@ -62,8 +62,8 @@ public class Main {
         // Задача 5
         System.out.println("Задача 5");
 
-        int mothNumber = 16;
-        switch (mothNumber){
+        int motnhNumber = 16;
+        switch (motnhNumber){
             case 12:
             case 1:
             case 2:
