@@ -62,8 +62,8 @@ public class Main {
         // Задача 5
         System.out.println("Задача 5");
 
-        int motnhNumber = 16;
-        switch (motnhNumber){
+        int monthNumber = 16;
+        switch (monthNumber){
             case 12:
             case 1:
             case 2:
